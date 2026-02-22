@@ -1,2 +1,2 @@
 # delta-demo
-This is my beginning state.
+This is my beginning stage.
